@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 
 # Hi, Welcome to my Profile!
 
-## I'm Michael Rodrigues a Mobile Architect, Lead Web Applications Developer, and Fullstack Developer
+## I'm Mike Rodrigues
+
+* Mobile Architect
+* Lead Web Applications Developer
+* Fullstack Developer
+* DevOps Apprentice (specifically Gitlab CI)
+* Linux Sys Admin for [Signature Limo Company](http://signaturelimocompany.com)
+* Network Security Enthusiast
 
 ### About me ...
 
