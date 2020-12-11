@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mrodrig/mrodrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, Welcome to my Profile!
+
+## I'm Michael Rodrigues a Mobile Architect, Lead Web Applications Developer, and Fullstack Developer
+
+### About me ...
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GentilPinto)](https://github.com/mrodrig)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gentilpinto/)](https://www.linkedin.com/in/rodriguesmichael/)
+[![Github Page Badge](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://gentilpinto.github.io/my-page/)](https://mrodrig.github.io/)
