@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ### About me ...
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GentilPinto)](https://github.com/mrodrig)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gentilpinto/)](https://www.linkedin.com/in/rodriguesmichael/)
-[![Github Page Badge](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://gentilpinto.github.io/my-page/)](https://mrodrig.github.io/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/mrodrig)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguesmichael/)
+[![Github Page Badge](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mrodrig.github.io/)
+
+![Michael's Github stats](https://github-readme-stats.vercel.app/api?username=mrodrig&theme=dark&count_private=true&include_all_commits=true&hide=issues)
