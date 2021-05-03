@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 ## I'm Mike Rodrigues
 
-* Mobile Architect
-* Lead Web Applications Developer
-* Fullstack Developer
-* DevOps Apprentice (specifically Gitlab CI)
-* Linux Sys Admin for [Signature Limo Company](http://signaturelimocompany.com)
+* Lead Mobile Architect & Web Applications Developer
+* Fullstack Developer - JavaScript (Node, Vue, AngularJS), Python, Swift, Java, Kotlin
+* DevOps Apprentice (Gitlab CI and Github Actions)
+* Sole Developer and Architect for [Signature Limo Company](http://signaturelimocompany.com) (previously a full stack Linux VM Sys Admin too)
 * Network Security Enthusiast
 
 ### About me ...
