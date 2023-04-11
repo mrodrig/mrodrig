@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 # Hi, Welcome to my Profile!
 
-## I'm Mike Rodrigues
+## I'm Mike Rodrigues (he/him/his)
 
-* Lead Mobile Architect & Web Applications Developer
-* Fullstack Developer - JavaScript (Node, Vue, AngularJS), Python, Swift, Java, Kotlin
-* DevOps Apprentice (Gitlab CI and Github Actions)
-* Sole Developer and Architect for [Signature Limo Company](http://signaturelimocompany.com) (previously a full stack Linux VM Sys Admin too)
+* Lead Software Engineer and Architect
+* Fullstack Developer - TypeScript/JavaScript (Node, Vue 2/3), Python 3, Swift, Java, Kotlin, Go
+* CI/CD Apprentice (Gitlab CI and GitHub Actions)
+* Sole Developer, Architect, and Security Advisor for [Signature Limo Company](https://signaturelimocompany-com-ewnf2.ondigitalocean.app/) (previously a full stack Linux VM Sys Admin too)
 * Network Security Enthusiast
 
 ### About me ...
