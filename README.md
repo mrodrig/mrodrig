@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 * Lead Software Engineer and Architect
 * Fullstack Developer - TypeScript/JavaScript (Node, Vue 2/3), Python 3, Swift, Java, Kotlin, Go
+* Network Security Enthusiast
 * CI/CD Apprentice (Gitlab CI and GitHub Actions)
 * Sole Developer, Architect, and Security Advisor for the now-retired [Signature Limo Company](https://signaturelimocompany-com-ewnf2.ondigitalocean.app/).
   * Redesigned to use a PaaS serverless architecture
   * Previously designed using a full stack IaaS Linux VM that I hardened
-* Network Security Enthusiast
 
 ### About me ...
 
