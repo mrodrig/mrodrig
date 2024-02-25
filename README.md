@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 * Lead Software Engineer and Architect
 * Fullstack Developer - TypeScript/JavaScript (Node, Vue 2/3), Python 3, Swift, Java, Kotlin, Go
+* Focused on Cloud-first Solutions - primarily working with Google Cloud Platform/Firebase, but also with Amazon Web Services and Microsoft Azure 
 * Network Security Enthusiast
 * CI/CD Apprentice (Gitlab CI and GitHub Actions)
 * Sole Developer, Architect, and Security Advisor for the now-retired [Signature Limo Company](https://signaturelimocompany-com-ewnf2.ondigitalocean.app/).
